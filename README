@@ -12,4 +12,12 @@ Participants view a standardized video presented on a monitor.
 
 ## **Participants**
 Number of participants: 23 (sub-01 to sub-23)
-Participants are healthy adults. Detailed demographic and experimental information (age, sex, smartphone application type) is provided in participants.tsv at the root of the dataset.
+Participants are healthy adults. Detailed demographic and experimental information (age, sex, and smartphone application type) is provided on participants.tsv at the root of the dataset.
+
+## **Hardware Synchronization and Event Markers**
+
+Session boundaries are marked using hardware-based transistor–transistor logic (TTL) synchronization pulses. Five TTL pulses are delivered at ~1-second intervals to mark session onset and offset. Additional TTL pulses are generated every 20 seconds during the session. These triggers are embedded in both EEG and eye-tracking data streams, enabling precise temporal alignment across all modalities.
+
+EEG event markers are smartphone monitor; marker: S 12 onset, S 13 offset) and (Video Monitor; marker: S 22 onset, S 23 offset):
+In the eye-tracking data, session boundaries are identified using TTL bursts consisting of five pulses occuring at ~1-second intervals
+with pulse characteristics (Type: sig; Direction: in; Value: 1.0). Additional synchronization pulses are present at ~20-second intervals during sessions. 
