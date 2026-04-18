@@ -1,6 +1,6 @@
 This dataset contains multimodal physiological recordings acquired during smartphone interaction and video viewing conditions. The dataset includes simultaneous electroencephalography (EEG), eye-tracking, photoplethysmography (PPG), and galvanic skin response (GSR) signals.
 
-# **Experimental Protocol**
+## **Experimental Protocol**
 
 Participants complete two experimental conditions while wearing a 64-channel EEG cap and a head-mounted eye tracker, with simultaneous PPG and GSR recordings:
 
@@ -9,3 +9,7 @@ Participants engage in naturalistic smartphone use using their personal devices.
 
 **Video Monitor (VM) condition (5 min):** 
 Participants view a standardized video presented on a monitor.
+
+## **Participants**
+Number of participants: 23 (sub-01 to sub-23)
+Participants are healthy adults. Detailed demographic and experimental information (age, sex, smartphone application type) is provided in participants.tsv at the root of the dataset.
