@@ -18,7 +18,29 @@
         "Levels": {
             "S": "short videos",
             "G": "gaming",
-            "R" : "reading"
+            "R": "reading"
+        }
+    },
+    "hand": {
+        "Description": "Hand used by the particiapnt while using thier phone during experiment",
+        "Levels": {
+            "R": "right",
+            "L": "left",
+            "B": "both"
+        }
+    },
+    "audio": {
+        "Description": "Audio used by the particiapnt while using thier phone during experiment",
+        "Levels": {
+            "Y": "yes",
+            "N": "no"
+        }
+    },
+    "orientation": {
+        "Description": "Screen Orientation of smartphone during during smartphone session",
+        "Levels": {
+            "P": "portrait",
+            "L": "landscape"
         }
     }
 }
