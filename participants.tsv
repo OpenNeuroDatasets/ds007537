@@ -1,24 +1,31 @@
-﻿participant_id	age	sex	app_type
-sub-01	28	M	S
-sub-02	27	M	G
-sub-03	25	F	R
-sub-04	26	F	R
-sub-05	22	F	S
-sub-06	22	F	S
-sub-07	23	M	G
-sub-08	23	F	G
-sub-09	22	F	S
-sub-10	21	M	S
-sub-11	20	M	G
-sub-12	25	M	S
-sub-13	20	M	S
-sub-14	23	M	S
-sub-15	22	F	S
-sub-16	24	M	G
-sub-17	25	M	S
-sub-18	25	M	G
-sub-19	26	M	S
-sub-20	24	F	G
-sub-21	23	M	S
-sub-22	30	M	S
-sub-23	32	M	S
+﻿participant_id	age	sex	app_type	hand	audio	orientation
+sub-01	28	M	S	R	Y	P
+sub-02	27	M	G	B	Y	L
+sub-03	25	F	R	R	N	P
+sub-04	26	F	R	R	N	P
+sub-05	22	F	S	R	Y	P
+sub-06	22	F	S	R	Y	P
+sub-07	23	M	G	R	N	P
+sub-08	23	F	G	B	Y	L
+sub-09	22	F	S	R	Y	P
+sub-10	21	M	S	R	Y	P
+sub-11	20	M	G	B	Y	L
+sub-12	25	M	S	R	Y	P
+sub-13	20	M	S	R	Y	P
+sub-14	23	M	S	R	Y	P
+sub-15	22	F	S	R	Y	P
+sub-16	24	M	G	R	Y	P
+sub-17	25	M	S	R	Y	P
+sub-18	25	M	G	B	Y	L
+sub-19	26	M	S	R	Y	P
+sub-20	24	F	G	B	N	L
+sub-21	23	M	S	R	Y	P
+sub-22	30	M	S	R	Y	P
+sub-23	32	M	S	R	Y	P
+sub-24	31	M	S	R	N	P
+sub-25	23	F	G	R	N	P
+sub-26	33	M	G	B	N	L
+sub-27	26	M	S	R	Y	P
+sub-28	26	M	S	R	N	P
+sub-29	29	M	S	R	Y	P
+sub-30	27	F	S	R	N	P
