@@ -1,0 +1,118 @@
+{
+    "TaskName": "phoneuse",
+    "Manufacturer": "Tobii Pro",
+    "ManufacturersModelName": "Tobii Pro Glasses 2",
+    "PhysioType": "eyetrack",
+    "RecordingType": "continuous",
+    "SamplingFrequency": 100.08,
+    "StartTime": 0.0,
+    "RecordedEye": "cyclopean",
+    "SampleCoordinateSystem": "gaze-in-world",
+    "EyeTrackingMethod": "P-CR",
+    "Columns": [
+        "timestamp",
+        "x_coordinate",
+        "y_coordinate",
+        "gaze_status",
+        "gaze3d_x",
+        "gaze3d_y",
+        "gaze3d_z",
+        "gaze_dir_left_x",
+        "gaze_dir_left_y",
+        "gaze_dir_left_z",
+        "gaze_dir_right_x",
+        "gaze_dir_right_y",
+        "gaze_dir_right_z",
+        "pupil_size_left",
+        "pupil_size_right",
+        "pupil_center_left_x",
+        "pupil_center_left_y",
+        "pupil_center_left_z",
+        "pupil_center_right_x",
+        "pupil_center_right_y",
+        "pupil_center_right_z"
+    ],
+    "timestamp": {
+        "Description": "Device timestamp of the sample (Tobii Glasses 2 API clock).",
+        "Units": "us"
+    },
+    "x_coordinate": {
+        "LongName": "Gaze position (x)",
+        "Description": "Horizontal cyclopean gaze position, normalized 0-1 in the scene-camera video frame.",
+        "Units": "normalized"
+    },
+    "y_coordinate": {
+        "LongName": "Gaze position (y)",
+        "Description": "Vertical cyclopean gaze position, normalized 0-1 in the scene-camera video frame.",
+        "Units": "normalized"
+    },
+    "gaze_status": {
+        "Description": "Tracking/validity status flag for the 2D gaze sample.",
+        "Levels": {
+            "0": "valid",
+            "1": "invalid"
+        }
+    },
+    "gaze3d_x": {
+        "Description": "3D gaze point, X component.",
+        "Units": "mm"
+    },
+    "gaze3d_y": {
+        "Description": "3D gaze point, Y component.",
+        "Units": "mm"
+    },
+    "gaze3d_z": {
+        "Description": "3D gaze point, Z component.",
+        "Units": "mm"
+    },
+    "gaze_dir_left_x": {
+        "Description": "Left-eye 3D gaze direction unit vector, X component."
+    },
+    "gaze_dir_left_y": {
+        "Description": "Left-eye 3D gaze direction unit vector, Y component."
+    },
+    "gaze_dir_left_z": {
+        "Description": "Left-eye 3D gaze direction unit vector, Z component."
+    },
+    "gaze_dir_right_x": {
+        "Description": "Right-eye 3D gaze direction unit vector, X component."
+    },
+    "gaze_dir_right_y": {
+        "Description": "Right-eye 3D gaze direction unit vector, Y component."
+    },
+    "gaze_dir_right_z": {
+        "Description": "Right-eye 3D gaze direction unit vector, Z component."
+    },
+    "pupil_size_left": {
+        "Description": "Left-eye pupil diameter.",
+        "Units": "mm"
+    },
+    "pupil_size_right": {
+        "Description": "Right-eye pupil diameter.",
+        "Units": "mm"
+    },
+    "pupil_center_left_x": {
+        "Description": "Left-eye pupil centre position, X component.",
+        "Units": "mm"
+    },
+    "pupil_center_left_y": {
+        "Description": "Left-eye pupil centre position, Y component.",
+        "Units": "mm"
+    },
+    "pupil_center_left_z": {
+        "Description": "Left-eye pupil centre position, Z component.",
+        "Units": "mm"
+    },
+    "pupil_center_right_x": {
+        "Description": "Right-eye pupil centre position, X component.",
+        "Units": "mm"
+    },
+    "pupil_center_right_y": {
+        "Description": "Right-eye pupil centre position, Y component.",
+        "Units": "mm"
+    },
+    "pupil_center_right_z": {
+        "Description": "Right-eye pupil centre position, Z component.",
+        "Units": "mm"
+    }
+}
