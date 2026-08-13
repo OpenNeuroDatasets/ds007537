@@ -1,36 +1,16 @@
-data:
-  attributes:
-    types:
-      resourceTypeGeneral: Dataset
-    contributors:
-      - name: Prakash Mishra
-        givenName: ''
-        familyName: ''
-        nameType: Personal
-        nameIdentifiers: []
-        contributorType: Researcher
-        order: 1
-      - name: Tapan K. Gandhi
-        givenName: ''
-        familyName: ''
-        nameType: Personal
-        nameIdentifiers: []
-        contributorType: Researcher
-        order: 2
-      - name: Saurabh R. Gandhi
-        givenName: ''
-        familyName: ''
-        nameType: Personal
-        nameIdentifiers: []
-        contributorType: Researcher
-        order: 3
-    creators:
-      - name: Prakash Mishra
-        nameType: Personal
-      - name: Tapan K. Gandhi
-        nameType: Personal
-      - name: Saurabh R. Gandhi
-        nameType: Personal
-    descriptions:
-      - description: N/A
-        descriptionType: Abstract
+Data Use Agreement and License Terms
+====================================
+
+This dataset consists of anonymous, multimodal neurophysiological recordings: electroencephalography (EEG), eye-tracking, photoplethysmography (PPG), and galvanic skin response (GSR).
+
+Terms of Use
+------------
+
+1. This data is made available strictly for scientific and academic research purposes.
+
+2. Commercial use, marketing use, or redistribution of this raw data for profit is explicitly prohibited.
+
+3. Any publication or presentation resulting from the use of this data must cite the original study:
+
+       
+By downloading, accessing, or using this dataset, you agree to be bound by these terms.
