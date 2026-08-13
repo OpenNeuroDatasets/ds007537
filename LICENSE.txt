@@ -1,0 +1,18 @@
+Data Use Agreement and License Terms
+====================================
+
+This dataset consists of de-identified, multimodal neurophysiological recordings: electroencephalography (EEG), eye-tracking, photoplethysmography (PPG), and galvanic skin response (GSR).
+
+Terms of Use
+------------
+
+1. This data is made available strictly for scientific and academic research purposes.
+
+2. Use of this data, and of any results arising from it, is restricted to scientific purposes only. This condition reflects the informed consent provided by participants, who agreed to the use of their data on the condition that such use is solely for scientific purpose(s). Use for any non-scientific purpose is outside the scope of participant consent and is not permitted.
+
+3. Commercial use, marketing use, or redistribution of this raw data for profit is explicitly prohibited.
+
+4. Any publication or presentation resulting from the use of this data must cite the original study:
+
+       
+By downloading, accessing, or using this dataset, you agree to be bound by these terms.
