@@ -1,0 +1,46 @@
+{
+    "participant_id": {
+        "Description": "Unique participant identifier"
+    },
+    "age": {
+        "Description": "Age of the participant at time of testing",
+        "Units": "years"
+    },
+    "sex": {
+        "Description": "Biological sex of the participant",
+        "Levels": {
+            "F": "female",
+            "M": "male"
+        }
+    },
+    "app_type": {
+        "Description": "type of the smartphone application used by the participant",
+        "Levels": {
+            "S": "short videos",
+            "G": "gaming",
+            "R": "reading"
+        }
+    },
+    "hand": {
+        "Description": "Hand used by the particiapnt while using thier phone during experiment",
+        "Levels": {
+            "R": "right",
+            "L": "left",
+            "B": "both"
+        }
+    },
+    "audio": {
+        "Description": "Audio used by the particiapnt while using thier phone during experiment",
+        "Levels": {
+            "Y": "yes",
+            "N": "no"
+        }
+    },
+    "orientation": {
+        "Description": "Screen Orientation of smartphone during during smartphone session",
+        "Levels": {
+            "P": "portrait",
+            "L": "landscape"
+        }
+    }
+}
