@@ -22,10 +22,10 @@ sub-20	24	F	G	B	N	L
 sub-21	23	M	S	R	Y	P
 sub-22	30	M	S	R	Y	P
 sub-23	32	M	S	R	Y	P
-sub-24	31	M	S	R	N	P
+sub-24	31	M	G	R	N	P
 sub-25	23	F	G	R	N	P
 sub-26	33	M	G	B	N	L
 sub-27	26	M	S	R	Y	P
-sub-28	26	M	S	R	N	P
-sub-29	29	M	S	R	Y	P
-sub-30	27	F	S	R	N	P
+sub-28	26	M	G	R	N	P
+sub-29	29	M	G	R	Y	P
+sub-30	27	F	G	R	N	P
