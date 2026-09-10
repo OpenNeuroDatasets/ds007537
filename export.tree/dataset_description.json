@@ -1,0 +1,27 @@
+{
+    "Name": "A multimodal dataset of EEG, eye-tracking, and physiological signals during smartphone interaction",
+    "BIDSVersion": "1.11.1",
+    "DatasetType": "raw",
+    "Authors": [
+        "Prakash Mishra",
+        "Tapan K. Gandhi",
+        "Saurabh R. Gandhi"
+    ],
+    "License": "CC0",
+    "DatasetDOI": "doi:10.18112/openneuro.ds007537.v2.0.2",
+    "HEDVersion": "8.4.0",
+    "GeneratedBy": [
+        {
+            "Name": "Custom code",
+            "Version": "1.0.0",
+            "Description": "Conversion of raw Tobii Pro Glasses 2, EEG, PPG and GSR recordings to BIDS",
+            "CodeURL": "https://github.com/csndl-iitd/ecf-natural-smartphone-neurophysiology"
+        }
+    ],
+    "SourceDatasets": [
+        {
+            "URL": "Raw device recordings (Tobii Glasses 2, BrainVision EEG, PPG/GSR) held by the authors; available on reasonable request.",
+            "Version": "1.0"
+        }
+    ]
+}
